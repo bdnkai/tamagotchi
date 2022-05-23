@@ -14,5 +14,5 @@ time tracking, money increments over time, hungry and bored bar
 gold
 growth and death cycle, cleaning up
 
-platnium:
+platinum:
 shop, clothes, food, and toys species and breeding
