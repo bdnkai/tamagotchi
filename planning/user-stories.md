@@ -1,5 +1,5 @@
 MVP
-//============= As a <type-of-user>, I want <some-capability> so that <benefit-received>". =========//
+//======== As a <type-of-user>, I want <some-capability> so that <benefit-received>". =========//
 
 as a player, I want a pet, so that I can play and feed it
 

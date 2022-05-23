@@ -1,0 +1,22 @@
+- Show begin game model
+    -- If user clicks "play", 
+        --- Then init game
+            ---- Hide begin game model / Show main game
+            ---- Initialize pet's age at 0
+            ---- Initialize pet's other stats at - (health, hunger, sleepiness, boredom, money)
+            ---- Initialize timers for hunger, age, sleepiness, and boredom
+                    ---- Health starts at 100
+                    ---- Age increases every 5 seconds
+                            ---- If hunger age is 0-5,
+                                ---- Show baby pet image
+                            ---- If hunger age is 0-5,
+                                ---- Show teenage pet image
+                            ---- If hunger age is 0-5,
+                                ---- Show adult pet image
+                    ---- Hunger increases every 2 seconds
+                    ---- Sleepiness increases every 3 seconds
+                    ---- Boredom increases every 4 seconds
+                        ---- Health Logic (100 to 0)
+                                ---- If health logic is 0
+                                    ----Show game over modal and invite user to play again
+            ---- Add event listeners to control buttons and allow user to decrement hunger, sleepiness and boredom
